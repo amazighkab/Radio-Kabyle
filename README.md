@@ -6,3 +6,11 @@
 |[Radio Algérienne Chaine 2](http://www.algerie-radio.com/radio-chaine-2-en-direct)|http://ch2.ice.infomaniak.ch/chaine2.aac|
 |[Radio Tamurt](http://radio.tamurt.info)|http://manager.streaming-ingenierie.fr/tunein.php/tamurt203/playlist.asx|
 |[Radio Beur FM Kabyle](http://www.beurfm.net)|http://broadcast.infomaniak.ch/beurfm-high.mp3|
+
+## Ecouter une radio
+
+  - Copier le lien stream
+  - Ouvrir VLC 
+  - Aller Media -> Open Network Stream 
+  - Coller le lient stream 
+  - Cliquer Play
