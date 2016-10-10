@@ -12,5 +12,10 @@
   - Copier le lien stream
   - Ouvrir VLC 
   - Aller Media -> Open Network Stream 
-  - Coller le lient stream 
+  - Coller le lien stream 
   - Cliquer Play
+  
+  
+  ![Image 1](https://raw.githubusercontent.com/amazighkab/radio-kabyle/master/img1.PNG)
+  
+  ![Image 2](https://raw.githubusercontent.com/amazighkab/radio-kabyle/master/img2.PNG)
